@@ -2,6 +2,20 @@
 
 Thank you JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT
 
+Hardware components
+
+JLCPCB Customized PCB ×	1
+
+Female Header 8 Position 1 Row (0.1") ×	40	
+
+Female header 20 Position 1 Row (0.1") ×	4	
+
+Hand tools and fabrication machines
+
+Soldering iron (generic)
+
+Solder Wire, Lead Free
+
 This project is about making a breadboard using PCB.
 
 It is common that we may find that the number of rows for the columns may be too few for our uses in commercial breadboard.
